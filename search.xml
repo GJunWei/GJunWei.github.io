@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>博客的创建</title>
+      <link href="/2023/07/30/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9B%E5%BB%BA/"/>
+      <url>/2023/07/30/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%9B%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<p>#博客的创建<br>##搭建思路<br>网上的资源有很多 差不多用了两天左右做好了 中间也是遇到了一些问题 但总算是搭建好了。具体的操作网上都有教程 我就分享一下我的学习搭建的过程吧！<br>总体就是使用 git + nodejs + hexo + github<br>git—— Git是一款分布式源代码管理工具<br>nodejs——基于Chrome V8引擎的JavaScript运行环境,一个让JavaScript运行在服务端的开发平台,让脚本语言JavaScript能作为服务器语言<br>hexo——静态博客框架<br>github——代码存放仓库<br>##我搭建个人博客的流程<br>###第一步 下载git </p><p>###第二步 安装nodejs并配置（我就卡这时间最久）<br>视频链接 <a href="https://www.bilibili.com/video/BV11V411o7Zh/?spm_id_from=333.999.0.0&vd_source=959706e0367313af82615b5977508169">https://www.bilibili.com/video/BV11V411o7Zh/?spm_id_from=333.999.0.0&amp;vd_source=959706e0367313af82615b5977508169</a> </p><p>###第三步 hexo部署<br>###第四步 上传到github （我使用steam++给github加速 网上答案我考虑下来只有这个）<br>参考了很多人的教程：（感谢B站的大佬们的分享！！！）<br><a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.999.0.0&vd_source=959706e0367313af82615b5977508169">https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.999.0.0&amp;vd_source=959706e0367313af82615b5977508169</a></p><p><a href="https://www.bilibili.com/video/BV1Rt4y1k7it/?spm_id_from=333.999.0.0&vd_source=959706e0367313af82615b5977508169">https://www.bilibili.com/video/BV1Rt4y1k7it/?spm_id_from=333.999.0.0&amp;vd_source=959706e0367313af82615b5977508169</a></p><p><a href="https://www.bilibili.com/video/BV1Xh411b7wh?p=2&vd_source=959706e0367313af82615b5977508169">https://www.bilibili.com/video/BV1Xh411b7wh?p=2&amp;vd_source=959706e0367313af82615b5977508169</a></p><p><a href="https://www.bilibili.com/video/BV1ts4y1f7Gu/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1ts4y1f7Gu/?spm_id_from=333.999.0.0</a></p><p><img src="https://upload-bbs.miyoushe.com/upload/2023/07/25/75276539/ced73201258a088fa119a68b55e4fe45_7627976009683305775.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一篇文章</title>
       <link href="/2023/07/30/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/07/30/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
