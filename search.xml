@@ -4,11 +4,37 @@
   
     
     <entry>
+      <title>hexo怎么写新的文章和主题设置</title>
+      <link href="/2023/12/30/hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2023/12/30/hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><pre><code>   hexo new + 文章名</code></pre><h3 id="生成新网页"><a href="#生成新网页" class="headerlink" title="生成新网页"></a>生成新网页</h3><pre><code>   hexo g </code></pre><h3 id="本地预览网页"><a href="#本地预览网页" class="headerlink" title="本地预览网页"></a>本地预览网页</h3><pre><code>   hexo s        </code></pre><h3 id="部署到网站"><a href="#部署到网站" class="headerlink" title="部署到网站"></a>部署到网站</h3><pre><code>   hexo d          </code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/24/2023.8.24%20%E6%98%9F%E6%9C%9F%E5%9B%9B%20%E6%9C%AC%E5%91%A8%E5%91%A8%E6%8A%A5/"/>
+      <url>/2023/08/24/2023.8.24%20%E6%98%9F%E6%9C%9F%E5%9B%9B%20%E6%9C%AC%E5%91%A8%E5%91%A8%E6%8A%A5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="2023-8-24-星期四-本周周报"><a href="#2023-8-24-星期四-本周周报" class="headerlink" title="2023.8.24 星期四 本周周报"></a>2023.8.24 星期四 本周周报</h1><h2 id="周一"><a href="#周一" class="headerlink" title="周一"></a>周一</h2><p><strong>上午写串口函数  下午修理板子</strong></p><h2 id="周二"><a href="#周二" class="headerlink" title="周二"></a>周二</h2><p><strong>收到协议用之前的开发板测试新写的串口通信程序</strong></p><h2 id="周三"><a href="#周三" class="headerlink" title="周三"></a>周三</h2><ul><li>​<strong>焊接雷达模块的小板子</strong> **然后测试雷达模块没有反应 ****   <strong>无法进行串口通信</strong></li></ul><h2 id="周四"><a href="#周四" class="headerlink" title="周四"></a>周四</h2><p>今天早上写代码 下午写代码</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/"/>
       <url>/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<h1 id="怎么解决插入本地图片到笔记中的问题"><a href="#怎么解决插入本地图片到笔记中的问题" class="headerlink" title="怎么解决插入本地图片到笔记中的问题"></a>怎么解决插入本地图片到笔记中的问题</h1><p><img src="/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/Users\guojunchao\AppData\Roaming\Typora\typora-user-images\image-20230812161710451.png" alt="image-20230812161710451"></p><p><img src="/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/Users\guojunchao\AppData\Roaming\Typora\typora-user-images\image-20230812161722561.png" alt="image-20230812161722561"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="怎么解决插入本地图片到笔记中的问题"><a href="#怎么解决插入本地图片到笔记中的问题" class="headerlink" title="怎么解决插入本地图片到笔记中的问题"></a>怎么解决插入本地图片到笔记中的问题</h1><p><img src="/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/Users\guojunchao\AppData\Roaming\Typora\typora-user-images\image-20230812161710451.png" alt="image-20230812161710451"></p><p><img src="/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/Users\guojunchao\AppData\Roaming\Typora\typora-user-images\image-20230812161722561.png" alt="image-20230812161722561"></p><p><img src="/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/image-20230813133455191.png" alt="image-20230813133455191"></p><p><img src="/2023/08/12/%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E5%88%B0%E7%AC%94%E8%AE%B0%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/image-20230813133742195.png" alt="image-20230813133742195"></p>]]></content>
       
       
       
