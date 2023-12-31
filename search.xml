@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>了解SD卡</title>
+      <link href="/2024/01/01/%E4%BA%86%E8%A7%A3SD%E5%8D%A1/"/>
+      <url>/2024/01/01/%E4%BA%86%E8%A7%A3SD%E5%8D%A1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-基本介绍"><a href="#1-基本介绍" class="headerlink" title="1.基本介绍"></a>1.基本介绍</h3><p>SD卡，中文名叫安全数码卡，由日本松下、东芝和美国SanDisk公司在1999年8月共同开发研制。2g重的他们容量却可以达到32GB以上。</p><p>SD卡按照容量分，可分为3类：SD卡、SDHC卡和SDXC卡<br>SD卡：0<del>2G<br>SDHC卡：2G</del>32G<br>SDXC卡：32G~2T<br>前面两种卡协议基本一致，但是SDXC卡协议就相差很大了。对于我们一般嵌入式设备而言，一般32G以下就基本够用了，所以下面大多都是介绍SD卡和SDHC卡的。</p><p>stm32支持SD2.0协议 读取最大内存空间32G</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>picgo上传图片测试</title>
       <link href="/2024/01/01/picgo%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
       <url>/2024/01/01/picgo%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<h2 id="第一个图片"><a href="#第一个图片" class="headerlink" title="第一个图片"></a>第一个图片</h2><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/202312311953423.png"></p><h2 id="第二图片"><a href="#第二图片" class="headerlink" title="第二图片"></a>第二图片</h2><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/20231231210919.png" alt="20231231210919"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="第一个图片"><a href="#第一个图片" class="headerlink" title="第一个图片"></a>第一个图片</h2><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/202312311953423.png"></p><h2 id="第二图片"><a href="#第二图片" class="headerlink" title="第二图片"></a>第二图片</h2><p>时间戳<br></p><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/20231231210919.png"></p><h2 id="第三个图片"><a href="#第三个图片" class="headerlink" title="第三个图片"></a>第三个图片</h2><p>fileName</p><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/20231231211746.png" alt="20231231211746"></p><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/20231231212208.png" alt="20231231212208"></p><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/20231231213001.png" alt="20231231213001"></p><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/20231231213215.png" alt="20231231213215"><br><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/false.png" alt="false"></p><p><img src="https://cdn.jsdelivr.net/gh/GJunWei/blogimg/.png" alt=".png"></p>]]></content>
       
       
       
